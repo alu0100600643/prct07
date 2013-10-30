@@ -1,6 +1,6 @@
 language: ruby
 rvm:
 
-	- jruby-1.8.7-p374
-	- jruby-2.0.0-p247
+	- ruby-1.8.7-p374
+	- ruby-2.0.0-p247
 	

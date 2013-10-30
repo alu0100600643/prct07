@@ -1,5 +1,5 @@
-require "./gcd.rb"
-require "./comparable.rb"
+require "./lib/gcd.rb"
+require "./lib/comparable.rb"
 
 class Fraccion
 

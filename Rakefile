@@ -1,4 +1,4 @@
-$:.unshift File.dirname(__FILE__) + 'lib'
+task :default => :bin
 
 desc "Run lib/fraccion.rb"
 task :bin do

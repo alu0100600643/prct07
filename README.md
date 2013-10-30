@@ -1,5 +1,5 @@
-practica6
+practica7
 Hecha por:
-Miguel Aurelio González García
+Miguel Aurelio García González 
 Daura Hernández Díaz
-=========
+

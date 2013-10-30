@@ -1,9 +1,5 @@
 $:.unshift File.dirname(__FILE__) + 'lib'
 
-require 'rspec/core/rake_task'
-RSpec::Core::RakeTask.new
-task :default => :spec
-
 desc "Run lib/fraccion.rb"
 task :bin do
   sh "ruby lib/fraccion.rb"
